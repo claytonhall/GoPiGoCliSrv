@@ -1,0 +1,9 @@
+c:\users\clayton\documents\visual studio 2013\Projects\PythonApplication1\WallE\bin\Debug\WallE.exe.config
+c:\users\clayton\documents\visual studio 2013\Projects\PythonApplication1\WallE\bin\Debug\WallE.exe
+c:\users\clayton\documents\visual studio 2013\Projects\PythonApplication1\WallE\bin\Debug\WallE.pdb
+c:\users\clayton\documents\visual studio 2013\Projects\PythonApplication1\WallE\obj\Debug\WallE.csprojResolveAssemblyReference.cache
+c:\users\clayton\documents\visual studio 2013\Projects\PythonApplication1\WallE\obj\Debug\WallE.Form1.resources
+c:\users\clayton\documents\visual studio 2013\Projects\PythonApplication1\WallE\obj\Debug\WallE.Properties.Resources.resources
+c:\users\clayton\documents\visual studio 2013\Projects\PythonApplication1\WallE\obj\Debug\WallE.csproj.GenerateResource.Cache
+c:\users\clayton\documents\visual studio 2013\Projects\PythonApplication1\WallE\obj\Debug\WallE.exe
+c:\users\clayton\documents\visual studio 2013\Projects\PythonApplication1\WallE\obj\Debug\WallE.pdb
