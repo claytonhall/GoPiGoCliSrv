@@ -7,3 +7,6 @@ c:\users\clayton\documents\visual studio 2013\Projects\PythonApplication1\WallE\
 c:\users\clayton\documents\visual studio 2013\Projects\PythonApplication1\WallE\obj\Debug\WallE.csproj.GenerateResource.Cache
 c:\users\clayton\documents\visual studio 2013\Projects\PythonApplication1\WallE\obj\Debug\WallE.exe
 c:\users\clayton\documents\visual studio 2013\Projects\PythonApplication1\WallE\obj\Debug\WallE.pdb
+C:\Users\chall\Documents\GitHub\GoPiGoCliSrv\Client\bin\Debug\WallE.exe.config
+C:\Users\chall\Documents\GitHub\GoPiGoCliSrv\Client\obj\Debug\WallE.exe
+C:\Users\chall\Documents\GitHub\GoPiGoCliSrv\Client\obj\Debug\WallE.pdb

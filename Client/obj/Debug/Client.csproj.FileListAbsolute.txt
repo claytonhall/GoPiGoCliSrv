@@ -1,0 +1,3 @@
+C:\Users\chall\Documents\GitHub\GoPiGoCliSrv\Client\bin\Debug\WallE.exe.config
+C:\Users\chall\Documents\GitHub\GoPiGoCliSrv\Client\obj\Debug\WallE.exe
+C:\Users\chall\Documents\GitHub\GoPiGoCliSrv\Client\obj\Debug\WallE.pdb
